@@ -1,0 +1,13 @@
+.viewHeight {
+  height: 100vh;
+  height: 100vh;
+}
+
+.searchBar {
+  height: 20%;
+}
+
+.searchResults {
+  height: 40%;
+  overflow: auto;
+}

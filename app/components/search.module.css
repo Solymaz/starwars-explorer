@@ -1,0 +1,13 @@
+.input {
+  width: 100%;
+  line-height: 3rem;
+  padding-left: 1rem;
+  border: none;
+  border-bottom: 1px solid grey;
+  font-size: 1rem;
+  box-sizing: border-box; /* Include padding and border in the element's width */
+  margin-bottom: 0.5rem;
+}
+.hiddenLabel {
+  display: none;
+}

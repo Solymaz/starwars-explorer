@@ -1,36 +1,53 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Project Title
 
-## Getting Started
+Star Wars Explorer
+Dive into the details of your favorite characters and movies from the iconic series.
 
-First, run the development server:
+## How to configure
 
-```bash
+npm install
+
+## How to run locally
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## How to build for production
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+npm run build
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## How to run tests
 
-## Learn More
+npm test
 
-To learn more about Next.js, take a look at the following resources:
+# Technologies
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+ReactJS
+NextJS
+Jest
+React Testing Library
+Material UI
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+# Requirements
 
-## Deploy on Vercel
+Node v20.10.0 or newer
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+# Todo
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Increase test coverage
+Convert to TypeScript
+Handle individual API calls failingn more user friendly
+Make the UI more fun
+
+## Features
+
+Search for characters and movies from the Star Wars universe.
+View detailed information about each character and movie.
+Intuitive and user-friendly interface.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+
+Thanks to the SWAPI for providing the Star Wars data.
