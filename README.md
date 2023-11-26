@@ -20,11 +20,11 @@ npm test
 
 ## Technologies
 
-ReactJS
-NextJS
-Jest
-React Testing Library
-Material UI
+- ReactJS
+- NextJS
+- Jest
+- React Testing Library
+- Material UI
 
 ## Requirements
 
@@ -32,10 +32,10 @@ Node v20.10.0 or newer
 
 ## Todo
 
-Increase test coverage
-Convert to TypeScript
-Handle individual API calls failingn more user friendly
-Make the UI more fun
+- Increase test coverage
+- Convert to TypeScript
+- Handle individual API calls failing in a more user-friendly manner
+- Make the UI more fun
 
 ## Features
 
