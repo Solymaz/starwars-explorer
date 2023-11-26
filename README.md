@@ -1,6 +1,5 @@
-# Project Title
+# Star Wars Explorer
 
-Star Wars Explorer
 Dive into the details of your favorite characters and movies from the iconic series.
 
 ## How to configure
@@ -19,7 +18,7 @@ npm run build
 
 npm test
 
-# Technologies
+## Technologies
 
 ReactJS
 NextJS
@@ -27,11 +26,11 @@ Jest
 React Testing Library
 Material UI
 
-# Requirements
+## Requirements
 
 Node v20.10.0 or newer
 
-# Todo
+## Todo
 
 Increase test coverage
 Convert to TypeScript
